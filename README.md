@@ -3,4 +3,4 @@
 untuk menggunakan web app ini silahkan 
 - inport file sql
 - masuk kedalam applikasi lakukan pendaftran akun pada form login (pastikan koneksi internet menyala)
-- untuk membuat akun menjadi admin, edit pada table user -> role_id ->ganti menjadi 1 
+- untuk membuat akun menjadi admin login dengan username admin dan password admin
